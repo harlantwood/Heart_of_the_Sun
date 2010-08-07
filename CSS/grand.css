@@ -1,0 +1,65 @@
+body 
+{
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
+.h0, h1, h2, h3, .title
+{
+  font-family: copperplate gothic bold, trebuchet ms, verdana, arial, helvetica, sans-serif;
+}
+
+.h0, .title
+{
+  color: #7D004E; 
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.title, .subtitle, .quote, .credits, .copyright, .ipNotice {
+  text-align: center;
+}
+
+div.quote
+{
+  margin-top: 1.5em;
+  font-style: italic; 
+}
+
+div.ipNotice
+{
+  font-weight: bold; 
+}
+
+div
+{
+  margin-bottom: 1em;
+}
+
+div.subtitle
+{
+  font-style: italic; 
+}
+
+div.foot_title
+{
+  font-style: italic; 
+  margin-top: 5em;
+  margin-bottom: 0em;
+}
+
+div.tagline
+{
+  font-weight: bold;
+}
+
+div.scene, div.summaryDialog
+{
+  text-align: left;
+}
+
+div.summaryDialog
+{
+  margin-top: .75em;
+  margin-bottom: .75em;
+}
