@@ -1,5 +1,5 @@
 body {
-	background:#FFFFFF url(/images/osgc-bg.gif) center top repeat;
+	background:#FFFFFF url(../IMG/osgc-bg.gif) center top repeat;
 	text-align:center;
 	margin:0px;
 	font-family: verdana, arial, helvetica, sans-serif;
@@ -106,7 +106,7 @@ div.diffs {
 #main {
     margin: 0px auto;
     width:1000px;
-    background: url(/images/open_source_genius_club_content.jpg) center top no-repeat;
+    background: url(../IMG/open_source_genius_club_content.jpg) center top no-repeat;
     /*min-height:300px;*/
     }
 #content-header {
@@ -165,7 +165,7 @@ div.diffs {
     width:1000px;
     height:50px;
     /*min-height:300px;*/
-    background: url(/images/osgc-footer.jpg) center bottom no-repeat;
+    background: url(../IMG/osgc-footer.jpg) center bottom no-repeat;
     /*border: 1px red solid;*/
     margin-top:-70px;
     padding-top: 150px;
