@@ -4,7 +4,7 @@ title: Heart of the Sun
 ---                    
 
 <div class="title">Heart of the Sun</div> 
-<div class="subtitle">&mdash; Or, Love in the Time of Posthumans &mdash;</div>
+<div class="subtitle">&mdash; Love in the Time of Posthumans &mdash;</div>
 <div class="ipNotice">An Open Source Screenplay</div>
 <div class="quote">
 Changing your body like you change your jeans<br />
