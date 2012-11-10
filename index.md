@@ -23,9 +23,8 @@ And although she was loved, she was not trusted on this vision.  Her fierce effo
 Now there is something you should know about your grandmother: she did not like to be told what to do.
 And so she labored in secret with scientists, and in particular with one Phillip Xulman, who preferred zero gravity, slept hardly at all, and labored day and night to on projects to keep the colonies alive. 
 
-They started with crystals because crystals are living systems and store information holographically, and they hoped that this holographic nature could be repurposed as computation.
-
+They worked with crystals, hoping to repurpose that medium's natural holographic information storage as computation.
 Other efforts used DNA, both synthetic, and living DNA from Miriam herself.
 It was Miriam who decided whether a particular experiment was to live or die.
 Phillip labored for tedious weeks on a giant half meter cube of crystal strata that had achieved consciousness. 
-Miriam said it was not holding the angelic light that was required, and she smashed it on the floor at Phillip’s feet, and he screamed.
+Miriam said it was not holding the angelic light that was required, and she smashed it on the floor at Phillip’s feet, and he screamed...
