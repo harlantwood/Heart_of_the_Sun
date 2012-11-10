@@ -1,3 +1,23 @@
+---
+layout: default
+title: Heart of the Sun
+---                    
+
+<div class="title">Heart of the Sun</div> 
+<div class="subtitle">&mdash; The Age of Human Immortality &amp; Enlightened AI &mdash;</div>
+<div class="ipNotice">An Open Source Film Project</div>
+
+> In the year 2202, immortality is free, poverty and war are distant memories, everyone who wants to be is a full-time creator.
+> And only the spiritually committed choose to die.
+>
+> On Earth, artificial minds head the world’s rapidly shifting power centers.
+> Human-speed thought is an anachronism; lifeforms and corporations are born, merge and conquer each other at billions per second; scientific breakthroughs tear through paradigms daily; physical immortality has arrived, with an ever-evolving range of sophisticated artificial bodies; humans upload their minds at will to software; AI’s have full autonomous control of their own vehicles and bodies.
+> Cultural prosperity reigns: everyone who wants to be is a creator, for it is the shining age of the artist, scientist, philosopher, and intellectual.
+> The termination of a sentient mind, human or machine, is a crime of the highest order.
+>
+> SunOne is a living space station dancing a web around the Sun, housing both spiritually inclined humans and divine artificial minds.
+> Many teenagers choose transhuman bodies built with organic computational abilities distributed throughout every cell.
+
 I’d like to tell you about your grandmother.
 Miriam was a high priestess of our people, she lead us from a time when we had nothing.
 She lead us to the glory of our home around the sun.
