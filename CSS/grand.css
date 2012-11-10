@@ -20,6 +20,13 @@ body
   text-align: center;
 }
 
+blockquote
+{
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  font-style: italic; 
+}
+
 div.quote
 {
   margin-top: 1.5em;
