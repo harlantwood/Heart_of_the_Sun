@@ -10,7 +10,7 @@ title: Heart of the Sun
 > And only the spiritually committed choose to die.
 
 I’d like to tell you about your grandmother.
-Miriam was a high priestess of our people, she lead us from a time when we had nothing, to the glory of our home around the sun.
+Miriam was a high priestess of our people, she led us from a time when we had nothing, to the glory of our home around the sun.
 
 She would fly sometimes, a dark bird, and all would alter their patterns to avoid her trajectory.
 Miriam had special access, the rules did not apply to her.
