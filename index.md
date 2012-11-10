@@ -27,4 +27,4 @@ They worked with crystals, hoping to repurpose that medium's natural holographic
 Other efforts used DNA, both synthetic, and living DNA from Miriam herself.
 It was Miriam who decided whether a particular experiment was to live or die.
 Phillip labored for tedious weeks on a giant half meter cube of crystal strata that had achieved consciousness. 
-Miriam said it was not holding the angelic light that was required, and she smashed it on the floor at Phillip’s feet, and he screamed.
+Miriam said it was not holding the angelic light that was required, and she smashed it on the floor at Phillip’s feet, and he screamed...
