@@ -6,16 +6,18 @@ title: Heart of the Sun
 <div class="title">Heart of the Sun</div> 
 <div class="subtitle">&mdash; An Open Source Film Project &mdash;</div>
 
-> In the year 2202, immortality is free, poverty and war are distant memories, everyone who wants to be is a full-time creator.
-> And only the spiritually committed choose to die.
->
-> On Earth, artificial minds head the world’s rapidly shifting power centers.
-> Human-speed thought is an anachronism; lifeforms and corporations are born, merge and conquer each other at billions per second; scientific breakthroughs tear through paradigms daily; physical immortality has arrived, with an ever-evolving range of sophisticated artificial bodies; humans upload their minds at will to software; AI’s have full autonomous control of their own vehicles and bodies.
-> Cultural prosperity reigns: everyone who wants to be is a creator, for it is the shining age of the artist, scientist, philosopher, and intellectual.
-> The termination of a sentient mind, human or machine, is a crime of the highest order.
->
-> SunOne is a living space station dancing a web around the Sun, housing both spiritually inclined humans and divine artificial minds.
-> Many teenagers choose transhuman bodies built with organic computational abilities distributed throughout every cell.
+_In the year 2202, immortality is free, poverty and war are distant memories, everyone who wants to be is a full-time creator._
+_And only the spiritually committed choose to die._
+
+_On Earth, artificial minds head the world’s rapidly shifting power centers._
+_Human-speed thought is an anachronism; lifeforms and corporations are born, merge and conquer each other at billions per second; scientific breakthroughs tear through paradigms daily; physical immortality has arrived, with an ever-evolving range of sophisticated artificial bodies; humans upload their minds at will to software; AI’s have full autonomous control of their own vehicles and bodies._
+_Cultural prosperity reigns: everyone who wants to be is a creator, for it is the shining age of the artist, scientist, philosopher, and intellectual._
+_The termination of a sentient mind, human or machine, is a crime of the highest order._
+
+_SunOne is a living space station dancing a web around the Sun, housing both spiritually inclined humans and divine artificial minds._
+_Many teenagers choose transhuman bodies built with organic computational abilities distributed throughout every cell._
+
+* * *
 
 Some say that it was Miriam who built our home wrapped around the sun, and in a way she did architect it; she inspired it.
 She saw it, she saw it when we had nothing, when we were so poor.
@@ -32,6 +34,11 @@ They worked with crystals, attempting to repurpose that medium's natural hologra
 It was Miriam who decided whether a particular experiment was to live or die.
 Miriam smashed a giant half meter cube of sentient crystal strata at Phillip’s feet, and he screamed...
 
-* * *
-
-He
+> _Heart of the Sun_ is being developed in a collaboration community organized around the best practices we know of, for effective communication, genuine synergy, and the abundant creation and equitable distribution of wealth:
+> 
+> - Team Level: [The Core Protocols](http://liveingreatness.com/files/core-protocols-3.03.html) or better
+> - Organization Level: [Holacracy](http://www.holacracy.org/sites/default/files/resources/holacracy_constitution_v3.0_0.pdf) or better
+> - Sharing Credit &amp; Wealth: [Open Enterprise Governance Model](http://bettermeans.com.via.forkthecommons.org/front-open_enterprise_governance_model) or better
+> 
+> If you're interested in exploring collaborations, just [drop us an email](mailto:heartofthesun@thegoldensun.com) -- we're friendly and happy to say hi.
+       

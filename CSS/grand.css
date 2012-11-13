@@ -22,9 +22,13 @@ body
 
 blockquote
 {
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
-  font-style: italic; 
+  padding: .5em 1.5em;
+  margin: 2em 0em;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  font-weight: 300;
+  color: #666;
+  font-style: italic;
 }
 
 div.quote
