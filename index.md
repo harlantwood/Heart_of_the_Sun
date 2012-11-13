@@ -30,5 +30,5 @@ And so she labored in secret with a brilliant barely-human scientist named X@vie
 They worked with DNA, both synthetic and living material extracted from precious drops of  Miriam's own blood.
 They worked with crystals, hoping to repurpose that medium's natural holographic information storage as computation.
 It was Miriam who decided whether a particular experiment was to live or die.
-Miriam smashed the giant half meter cube of crystal strata at Phillip’s feet, and he screamed...
+Miriam smashed a giant half meter cube of sentient crystal strata at Phillip’s feet, and he screamed...
 
