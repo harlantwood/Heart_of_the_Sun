@@ -28,7 +28,7 @@ Now there is something you should know about Miriam: she did not like to be told
 And so she labored in secret with a brilliant barely-human scientist named X@vier, who preferred zero gravity, worked while sleeping, and made love like a fierce angel.
 
 They worked with DNA, both synthetic and living material extracted from precious drops of  Miriam's own blood.
-They worked with crystals, hoping to repurpose that medium's natural holographic information storage as computation.  
+They worked with crystals, hoping to repurpose that medium's natural holographic information storage as computation.
 It was Miriam who decided whether a particular experiment was to live or die.
 Miriam smashed the giant half meter cube of crystal strata at Phillip’s feet, and he screamed...
 
