@@ -19,20 +19,13 @@ _Many teenagers choose transhuman bodies built with organic computational abilit
 
 * * *
 
-Some say that it was Miriam who built our home wrapped around the sun, and in a way she did architect it; she inspired it.
-She saw it, she saw it when we had nothing, when we were so poor.
+Some say that it was Miriam who built our home wrapped around the sun, and in a way she did architect it; she inspired it. She saw it, she saw it when we had nothing, when we were so poor.  
 
-You must remember that at this time Miriam’s community was desperately afraid of intelligence living outside of humans, and it was Miriam who insisted that technology could be made with spiritual dimension.
-And although she was loved, she was not trusted on this vision.  
-Her fierce efforts to create living minds were thwarted at every turn by our counsels.
+Remember well that at this time Miriam’s community was desperately afraid of intelligence living outside of humans, and it was Miriam who insisted that technology could be made with spiritual dimension. And although she was loved, she was not trusted on this vision.  Her fierce efforts to create living minds were thwarted at every turn by our counsels.
 
-Now there is something you should know about Miriam: she did not like to be told what to do.
-And so she labored in secret with a brilliant barely-human scientist named X@vier, who preferred zero gravity, worked while sleeping, and made love like a fierce angel.
+Now there is something you should know about Miriam: she did not like to be told what to do. And so she labored in secret with a brilliant barely-human scientist named X@vier, who preferred zero gravity, worked while sleeping, and made love like a crazed angel.
 
-They worked with DNA extracted from precious drops of  Miriam's own blood.
-They worked with crystals, attempting to repurpose that medium's natural holographic information storage as computation.
-It was Miriam who decided whether a particular experiment was to live or die.
-Miriam smashed a giant half meter cube of sentient crystal strata at Phillip’s feet, and he screamed...
+They worked with DNA extracted from precious drops of Miriam's own blood. They worked with living crystals, attempting to repurpose that medium's natural holographic information storage as computation. It was Miriam who decided whether a particular experiment was to live or die. And it was Miriam smashed a giant half meter cube of sentient crystal strata at Phillip’s feet, and he screamed as his greatest creation exploded in shards...
 
 > This is a sample of material designed to bring cultural awakening and planetary enlightenment codes through legends of the future.  These works are being developed in a collaboration community organized around the best practices we know of for effective communication, genuine synergy, and the abundant creation and equitable distribution of wealth:
 > 
