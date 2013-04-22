@@ -30,7 +30,7 @@ They worked with DNA extracted from precious drops of Miriam's own blood. They w
 > This is a sample of material designed to bring cultural awakening and planetary enlightenment codes through legends of the future.  These works are being developed in a collaboration community organized around the best practices we know of for effective communication, genuine synergy, and the abundant creation and equitable distribution of wealth:
 > 
 > - Team Level: [The Core Protocols](http://liveingreatness.com/files/core-protocols-3.03.html) or better
-> - Organization Level: [Holacracy](http://www.holacracy.org/sites/default/files/resources/holacracy_constitution_v3.0_0.pdf) or better
+> - Organization Level: [Holacracy](http://www.holacracy.org/sites/default/files/resources/holacracy_constitution_v4.0.pdf) or better
 > - Sharing Credit &amp; Wealth: [Open Enterprise Governance Model](http://bettermeans.com.via.forkthecommons.org/front-open_enterprise_governance_model) or better
 > 
 > If you're interested in exploring collaborations with us, [drop us an email](mailto:heartofthesun@thegoldensun.com) -- we're friendly and like to be in touch with like-minded souls.
